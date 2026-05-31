@@ -116,5 +116,4 @@ Seja `V = n`, `E = m` arestas de estrada e `k` rotas de trem.
   então não há vértices inalcançáveis a tratar.
 
 ## Evidência de Accepted
-Ver `evidencias/accepted.png` (substituir pelo print real da submissão aceita no
-Codeforces).
+Ver `evidencias/evidenciacodeforce.png` 
