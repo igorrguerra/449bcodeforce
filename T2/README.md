@@ -7,9 +7,10 @@
 - **Grupo:** F
 
 ## Integrantes do grupo
-- *(preencher: nome — matrícula)*
-- *(preencher: nome — matrícula)*
-- *(preencher: nome — matrícula)*
+- Igor Romero Guerra
+- João Gabriel Leite Borges
+- Vinni Lorenzo
+- Pedro Maia
 
 ## Linguagem utilizada
 Python 3 (apenas biblioteca padrão: `sys` e `heapq`).
